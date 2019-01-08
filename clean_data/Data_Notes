@@ -1,0 +1,11 @@
+# The input X:
+5 files of hotel feature matrix are too large to be uploaded<br/>
+good_aspect_feature_matrix_1 :location<br/>
+good_aspect_feature_matrix_2 :price<br/>
+good_aspect_feature_matrix_3 :amenities<br/>
+good_aspect_feature_matrix_4 :service<br/>
+good_aspect_feature_matrix_5 :safety<br/>
+
+# The true y:
+good_rate: normalized rates
+
