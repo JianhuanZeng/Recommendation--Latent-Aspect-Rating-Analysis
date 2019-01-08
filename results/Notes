@@ -1,0 +1,2 @@
+avg_rate.txt: the avg rate dictionary to recover real rates for the final recomendation.
+testing_result.csv: the testing result from model
