@@ -5,12 +5,14 @@
 • Apply Bayesian Model to hotel rates and do mathematic calculation. Specifically, apply and run VI<br/>
 algorithm in MATLAB. Getting aspect rates, analyze and visualize results in Python (matplotlib).<br/>
 
-# The Designed Model
+# The Designed Bayesian Model
+Assumptions and derivations made <br/>
 see https://github.com/JianhuanZeng/Recommendation--Latent-Aspect-Rating-Analysis/blob/master/Latent%20Rating%20Regression%20Model.pdf
 
 # Data processing
 Text to feature<br/>
 clean data at https://github.com/JianhuanZeng/Recommendation--Latent-Aspect-Rating-Analysis/tree/master/clean_data<br/>
+
 1. The input X:<br/>
 5 files of hotel feature matrix are too large to be uploaded<br/>
 good_aspect_feature_matrix_1 :location<br/>
@@ -23,8 +25,10 @@ good_rate: normalized rates
 
 # Result
 test result at https://github.com/JianhuanZeng/Recommendation--Latent-Aspect-Rating-Analysis/tree/master/results <br/>
+
 avg_rate.txt: the avg rate dictionary to recover real rates for the final recomendation.<br/>
 testing_result.csv: the testing result from model<br/>
+
 demo at https://github.com/JianhuanZeng/Recommendation--Latent-Aspect-Rating-Analysis/blob/master/results/demo_aspect_rates.png <br/>
 and https://github.com/JianhuanZeng/Recommendation--Latent-Aspect-Rating-Analysis/blob/master/results/demo_presented2.png
 
